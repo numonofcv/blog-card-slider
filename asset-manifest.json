@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/numonofcv/blog-card-slider/static/css/main.3ceed393.css",
+    "main.js": "/numonofcv/blog-card-slider/static/js/main.be176b50.js",
+    "index.html": "/numonofcv/blog-card-slider/index.html",
+    "main.3ceed393.css.map": "/numonofcv/blog-card-slider/static/css/main.3ceed393.css.map",
+    "main.be176b50.js.map": "/numonofcv/blog-card-slider/static/js/main.be176b50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ceed393.css",
+    "static/js/main.be176b50.js"
+  ]
+}
