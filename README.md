@@ -54,7 +54,7 @@ The page reloads when you make changes.
 To clone and run the project locally:
 
 ```bash
-git clone https://github.com/yourusername/responsive-blog-slider.git
+git clone https://github.com/numonofcv/Responsive-Blog-Card-Slider.git
 cd responsive-blog-slider
 npm install
 npm start
